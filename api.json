@@ -1,0 +1,18 @@
+//Users Api
+{
+  "email": "emailaddress@gmail.com",
+  "password": "123dfdf"
+}
+
+//OAuth Api
+{
+  "grant_type": "password",
+  "username": "email@addresss",
+  "password": "1234"
+}
+
+{
+  "grant_type": "client_credentials",
+  "client_id": "id-123",
+  "client_secret": "secret"
+}

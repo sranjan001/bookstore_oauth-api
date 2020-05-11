@@ -1,2 +1,12 @@
 ###
-GET http://localhost:8080/oauth/access_token/34394394374
+GET http://localhost:8081/oauth/access_token/5tq23ixD
+
+###
+POST http://localhost:8081/oauth/access_token
+Content-Type: application/json
+
+{
+  "grant_type": "password",
+  "username": "satya@email.com",
+  "password": "ms1"
+}
